@@ -8,11 +8,11 @@ import { Provider } from "react-redux";
 import MyStore from "../store/index.js";
 const router = createBrowserRouter([
   {
-    path: "/Myntra-Clone-2/",
+    path: "/",
     element: <App />,
     children: [
-      { path: "/Myntra-Clone-2/", element: <Home /> },
-      { path: "/Myntra-Clone-2/bag", element: <MyBag /> },
+      { path: "/", element: <Home /> },
+      { path: "/bag", element: <MyBag /> },
     ],
   },
 ]);

@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header>
       <div className="logo_container">
-        <Link to="/Myntra-Clone-2/">
+        <Link to="/">
           <img
             className="myntra_home"
             src="images/myntra_logo.webp"
@@ -48,7 +48,7 @@ const Header = () => {
           <span className="action_name">Wishlist</span>
         </div>
 
-        <Link to="/Myntra-Clone-2/bag" className="action_container">
+        <Link to="/bag" className="action_container">
           <span className="material-symbols-outlined action_icon">
             <LuBaggageClaim />
           </span>
