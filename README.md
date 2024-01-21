@@ -1,1 +1,1 @@
-click here to open web : https://golubhattuk01.github.io/Myntra-Clone-2/
+click here to open web : https://animated-torrone-0236e8.netlify.app/
